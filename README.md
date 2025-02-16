@@ -1,6 +1,6 @@
 ![Dino_non-birthday_version](https://github.com/TsimurKurchyshyn/Interesting-JavaScript-Game/assets/151466640/fe1b9d6a-837c-43ba-a0de-a3adb5f7defb)
 
-Fully made [Dinosaur Game](http://127.0.0.1:5500/)
+Fully made [Dinosaur Game](https://tsimurkurchyshyn.github.io/Dino-Game/)
 
 # Basic Dinosaur Game
 
